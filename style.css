@@ -1,0 +1,25 @@
+.card, .card-img-top{
+    width: 350px;
+    border: 1px solid #dbdada;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: #e45d80;
+    border-radius: 5px;
+    border: none;
+    
+}
+a{
+    color: white ;
+    text-decoration: none;
+    font-weight: 500;
+}
+.card-body{
+    padding: 0 20px 20px 20px;
+}
+h5{
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0 0 0 0;
+}
